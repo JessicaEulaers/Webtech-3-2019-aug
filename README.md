@@ -1,3 +1,6 @@
+
+Aangezien ik mijn project niet heb kunnen testen heb ik geen screenshots
+
 # Verkeer
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
